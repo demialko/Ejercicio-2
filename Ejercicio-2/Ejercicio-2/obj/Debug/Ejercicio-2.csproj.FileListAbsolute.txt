@@ -1,0 +1,7 @@
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\bin\Debug\Ejercicio-2.exe.config
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\bin\Debug\Ejercicio-2.exe
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\bin\Debug\Ejercicio-2.pdb
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\obj\Debug\Ejercicio-2.csprojAssemblyReference.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\obj\Debug\Ejercicio-2.csproj.CoreCompileInputs.cache
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\obj\Debug\Ejercicio-2.exe
+C:\Users\demia\source\repos\CAI\Ejercicio-2\Ejercicio-2\Ejercicio-2\obj\Debug\Ejercicio-2.pdb
